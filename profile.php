@@ -90,7 +90,7 @@ if ($_SESSION['token']) {
   <meta name="referrer" content="default" id="meta_referrer" />
     <meta name="description" content="AUTOLIKER is a social exchange platform that boosts likes and comments on your posts, helping you gain followers and engagement for free.">
     <meta name="keywords" content="autoliker, autolikes, facebook autoliker, best facebook autoliker,free facebook likes,facebook autoliker no spam, autoliker no spam, best facebook autoliker no spam, facebook autolikes for free">
-    <meta name="author" content="Mahiro chan">
+    <meta name="author" content="Rohd Huzen">
     <meta property="og:image" content="img/logo.png"/>
     <meta property="og:title" content="AUTOLIKER - One of the best Facebook Autoliker"/>
     <meta property="og:description" content="AUTOLIKER is a social exchange platform that boosts likes and comments on your posts, helping you gain followers and engagement for free."/>
